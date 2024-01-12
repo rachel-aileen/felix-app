@@ -1,5 +1,42 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: pink;
+  background-color: white;
+
+}
+
+/* Navbar */
+.navbar {
+  background-color: white;
+  height: 10vh;
+  width: 100%;
+  display: flex;
+}
+
+
+
+/* Hero */
+.hero {
+  background-color: #FDF6EC;
+  height: 90vh;
+  display: flex;
+}
+
+.row-img {
+  max-width: 90%;
+  height: auto;
+  display: block;
+}
+
+/* Newsletter */
+.newsletter {
+  background-color: #E8D8E9;
+  height: 30vh;
+}
+
+/* About */
+
+.about {
+  background-color: white;
+  height: 90vh;
 }
