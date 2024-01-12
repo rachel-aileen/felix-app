@@ -3,3 +3,24 @@ body {
   padding: 0;
   background-color: pink;
 }
+
+.navbar {
+  background-color: pink;
+  height: 10vh;
+}
+
+/* About */
+.about {
+  background-color: aqua;
+  height: 80vh;
+}
+
+.cat-img {
+  width: 100%;
+}
+
+/* Team */
+.team {
+  background-color: purple;
+  height: 80vh;
+}
