@@ -40,4 +40,5 @@ body {
 .about {
   background-color: white;
   height: 90vh;
+  display: flex;
 }
