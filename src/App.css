@@ -3,3 +3,32 @@ body {
   padding: 0;
   background-color: pink;
 }
+
+
+.navbar {
+  height: 10vh;
+  background-color: aquamarine;
+}
+
+.hero {
+  height: 80vh;
+  background-color: green;
+}
+
+/* About */
+.about {
+  height: 80vh;
+  background-color: hotpink;
+}
+
+.cat-img {
+  width: 100%;
+  height: auto;
+}
+
+/* Services */
+
+.services {
+  height: 80vh;
+  background-color: royalblue;
+}
