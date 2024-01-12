@@ -1,5 +1,24 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: white;
+
+}
+
+/* Sidebar */
+.sidebar {
   background-color: pink;
+  height: 100vh;
+}
+
+/* Content */
+.content {
+  background-color: blue;
+  height: 100vh;
+}
+
+.cat-img {
+  width: 100%;
+  overflow: none;
+
 }
